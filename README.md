@@ -1,4 +1,4 @@
-# SnakeV2_TFA
+# SnakeV2
 Petit jeu créé en Python pour le travail de fin d'année de mon cours de programmation.
 
 # A SAVOIR
